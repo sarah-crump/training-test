@@ -2,5 +2,5 @@
 
 This is a test repository. It has a few roles
 
--stuff
--and other stuff
+1. stuff
+1. and other stuff
